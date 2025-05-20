@@ -1,4 +1,4 @@
-const API_KEY = '04c35731a5ee918f014970082a0088b1';
+const API_KEY = '7c179cf3d28206571d1341c71c093f32';
 const BASE_URL = 'https://api.themoviedb.org/3';
 const API_URL = `${BASE_URL}/discover/movie?sort_by=popularity.desc&api_key=${API_KEY}&page=1`;
 const IMG_PATH = 'https://image.tmdb.org/t/p/w500';
